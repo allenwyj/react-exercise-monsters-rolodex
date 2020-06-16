@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-exercise-monsters-rolodex/static/css/main.aece2b02.chunk.css",
+    "main.js": "/react-exercise-monsters-rolodex/static/js/main.9fde2279.chunk.js",
+    "main.js.map": "/react-exercise-monsters-rolodex/static/js/main.9fde2279.chunk.js.map",
+    "runtime-main.js": "/react-exercise-monsters-rolodex/static/js/runtime-main.5af6e9fa.js",
+    "runtime-main.js.map": "/react-exercise-monsters-rolodex/static/js/runtime-main.5af6e9fa.js.map",
+    "static/js/2.02a0632e.chunk.js": "/react-exercise-monsters-rolodex/static/js/2.02a0632e.chunk.js",
+    "static/js/2.02a0632e.chunk.js.map": "/react-exercise-monsters-rolodex/static/js/2.02a0632e.chunk.js.map",
+    "index.html": "/react-exercise-monsters-rolodex/index.html",
+    "precache-manifest.0a7c4ee1bec74ee1e570bef13a8142e2.js": "/react-exercise-monsters-rolodex/precache-manifest.0a7c4ee1bec74ee1e570bef13a8142e2.js",
+    "service-worker.js": "/react-exercise-monsters-rolodex/service-worker.js",
+    "static/css/main.aece2b02.chunk.css.map": "/react-exercise-monsters-rolodex/static/css/main.aece2b02.chunk.css.map",
+    "static/js/2.02a0632e.chunk.js.LICENSE.txt": "/react-exercise-monsters-rolodex/static/js/2.02a0632e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af6e9fa.js",
+    "static/js/2.02a0632e.chunk.js",
+    "static/css/main.aece2b02.chunk.css",
+    "static/js/main.9fde2279.chunk.js"
+  ]
+}
